@@ -14,7 +14,7 @@ public class Armstrong {
             System.out.println("Not A Armstorng");
         }
     }
-
+//from feature branch
 public static class checker{
         static boolean Armstrongcheck(int num){
            int sum =0, last,temp =num;
