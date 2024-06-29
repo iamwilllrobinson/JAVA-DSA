@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collections;
-
+//check
 public class median {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         ArrayList<Integer> temp = new ArrayList<>();
